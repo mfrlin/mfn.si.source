@@ -5,6 +5,7 @@ categories: motorcycles
 tags:
 	- Honda
 	- CB650R
+	- beginner
 ---
 
 My 2019 Honda CB650R is approaching 25.000 kilometres so it was time for a regular service. It is almost 2 years old and with that warranty period is about to end. No reason anymore to perform service at a dealer and pay a hefty premium. Simple service is about ~100 euros in my parts so I figured I can do it myself and save some money.
